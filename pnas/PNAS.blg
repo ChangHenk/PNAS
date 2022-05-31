@@ -1,0 +1,61 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PNAS.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: pnas-new.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+format.journal is an unknown function---line 566 of file pnas-new.bst
+Database file #1: 2022_SDRE.bib
+Warning--entry type for "MATLAB" isn't style-file defined
+--line 1405 of file 2022_SDRE.bib
+`title' is a missing field, not a string, for entry NoWr:06
+while executing---line 1016 of file pnas-new.bst
+Warning--empty title in NoWr:06
+Warning--can't use both author and editor fields in RaLe:19
+Warning--empty volume in LiLiHs:draft
+Warning--empty volume in Hey:acc
+`title' is a missing field, not a string, for entry MATLAB
+while executing---line 1016 of file pnas-new.bst
+Warning--empty volume in MiHa:acc
+You've used 28 entries,
+            1817 wiz_defined-function locations,
+            681 strings with 8244 characters,
+and the built_in function-call counts, 6297 in all, are:
+= -- 616
+> -- 334
+< -- 0
++ -- 98
+- -- 70
+* -- 513
+:= -- 968
+add.period$ -- 55
+call.type$ -- 28
+change.case$ -- 25
+chr.to.int$ -- 0
+cite$ -- 33
+duplicate$ -- 259
+empty$ -- 575
+format.name$ -- 70
+if$ -- 1433
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 33
+newline$ -- 114
+num.names$ -- 31
+pop$ -- 63
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 119
+stack$ -- 0
+substring$ -- 416
+swap$ -- 43
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 5
+while$ -- 59
+width$ -- 30
+write$ -- 278
+(There were 3 error messages)

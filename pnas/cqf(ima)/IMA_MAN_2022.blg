@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: IMA_MAN_2022.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+The style file: IMANUM-BIB.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: 2022_SDRE.bib
+Warning--entry type for "MATLAB" isn't style-file defined
+--line 1405 of file 2022_SDRE.bib
+Warning--empty address in BoVa:04
+Warning--empty address in GoVa:13
+Warning--empty address in KuYi:03
+Warning--empty journal in LiLiHs:draft
+Warning--empty address in Lue:69
+Warning--empty address in Lu(Ye):03(16)
+You can't pop an empty literal stack for entry MATLAB
+while executing---line 1344 of file IMANUM-BIB.bst
+Warning--empty title in NoWr:06
+Warning--empty address in NoWr:06
+Warning--empty address in RaLe:19
+You've used 27 entries,
+            2961 wiz_defined-function locations,
+            806 strings with 8874 characters,
+and the built_in function-call counts, 12217 in all, are:
+= -- 1223
+> -- 618
+< -- 18
++ -- 188
+- -- 180
+* -- 1128
+:= -- 2149
+add.period$ -- 94
+call.type$ -- 27
+change.case$ -- 169
+chr.to.int$ -- 27
+cite$ -- 36
+duplicate$ -- 475
+empty$ -- 788
+format.name$ -- 233
+if$ -- 2392
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 31
+newline$ -- 142
+num.names$ -- 111
+pop$ -- 174
+preamble$ -- 1
+purify$ -- 175
+quote$ -- 0
+skip$ -- 319
+stack$ -- 0
+substring$ -- 745
+swap$ -- 77
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 225
+warning$ -- 9
+while$ -- 110
+width$ -- 0
+write$ -- 352
+(There was 1 error message)

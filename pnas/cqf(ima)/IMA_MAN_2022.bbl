@@ -1,0 +1,165 @@
+\begin{thebibliography}{}
+
+\bibitem[Bemporad {\em et~al.}(2002)Bemporad, Morari, Dua, \&
+  Pistikopoulos]{BeMoDuPi:02}
+{\sc Bemporad, A., Morari, M., Dua, V. \& Pistikopoulos, E.~N.} (2002)
+\newblock The explicit linear quadratic regulator for constrained systems.
+\newblock {\em Automatica\/}, {\bf 38}, 3--20.
+
+\bibitem[Boyd \& Vandenberghe(2004)Boyd \& Vandenberghe]{BoVa:04}
+{\sc Boyd, S. \& Vandenberghe, L.} (2004)
+\newblock {\em Convex Optimization\/}.
+\newblock Cambridge, UK: Cambridge Univ. Press.
+\newblock 23rd/latest printing with corrections, 2018, and its solution manual.
+
+\bibitem[{\c{C}}imen(2010){\c{C}}imen]{Cim:10}
+{\sc {\c{C}}imen, T.} (2010)
+\newblock Systematic and effective design of nonlinear feedback controllers via
+  the state-dependent {R}iccati equation ({SDRE}) method.
+\newblock {\em Annu. Rev. Control\/}, {\bf 34}, 32--51.
+
+\bibitem[Ciocan \& Farias(2012)Ciocan \& Farias]{CiFa:12}
+{\sc Ciocan, D.~F. \& Farias, V.~F.} (2012)
+\newblock Model predictive control for dynamic resource allocation.
+\newblock {\em Math. Oper. Res.}, {\bf 37}, 501--525.
+
+\bibitem[Duchi {\em et~al.}(2015)Duchi, Jordan, Wainwright, \&
+  Wibisono]{DuJoWaWi:15}
+{\sc Duchi, J.~C., Jordan, M.~I., Wainwright, M.~J. \& Wibisono, A.} (2015)
+\newblock Optimal rates for zero-order convex optimization: {T}he power of two
+  function evaluations.
+\newblock {\em IEEE Trans. Inf. Theory\/}, {\bf 61}, 2788--2806.
+
+\bibitem[Golub \& Van~Loan(2013)Golub \& Van~Loan]{GoVa:13}
+{\sc Golub, G.~H. \& Van~Loan, C.~F.} (2013)
+\newblock {\em Matrix Computations\/}, {4th/latest} edn.
+\newblock Baltimore, MD, USA: Johns Hopkins Univ. Press.
+
+\bibitem[Heydari(2021)Heydari]{Hey:acc}
+{\sc Heydari, M.} (2021)
+\newblock Optimal inspection policy for a second-hand product with a
+  two-dimensional warranty.
+\newblock {\em IMA J. Manag. Math.}
+\newblock dpab030.
+
+\bibitem[Johansen {\em et~al.}(2005)Johansen, Fossen, \& T{\o}ndel]{JoFoTo:05}
+{\sc Johansen, T.~A., Fossen, T.~I. \& T{\o}ndel, P.} (2005)
+\newblock Efficient optimal constrained control allocation via multiparametric
+  programming.
+\newblock {\em J. Guid. Control Dyn.}, {\bf 28}, 506--515.
+
+\bibitem[Johansen \& Fossen(2013)Johansen \& Fossen]{JoFo:13}
+{\sc Johansen, T.~A. \& Fossen, T.~I.} (2013)
+\newblock Control allocation--{A} survey.
+\newblock {\em Automatica\/}, {\bf 49}, 1087--1103.
+
+\bibitem[Kang {\em et~al.}(2018)Kang, Wang, Li, Shan, \&
+  Petersen]{KaWaLiShPe:18}
+{\sc Kang, S., Wang, J., Li, G., Shan, J. \& Petersen, I.~R.} (2018)
+\newblock Optimal cooperative guidance law for salvo attack: {A}n {MPC}-based
+  consensus perspective.
+\newblock {\em IEEE Trans. Aerosp. Electron. Syst.}, {\bf 54}, 2397--2410.
+
+\bibitem[Konno \& Yamazaki(1991)Konno \& Yamazaki]{KoYa:91}
+{\sc Konno, H. \& Yamazaki, H.} (1991)
+\newblock Mean-absolute deviation portfolio optimization model and its
+  applications to {T}okyo stock market.
+\newblock {\em Management Sci.}, {\bf 37}, 519--531.
+
+\bibitem[Kushner \& Yin(2003)Kushner \& Yin]{KuYi:03}
+{\sc Kushner, H. \& Yin, G.~G.} (2003)
+\newblock {\em Stochastic Approximation and Recursive Algorithms and
+  Applications\/}, 2nd edn.
+\newblock USA: Springer-Verlag.
+
+\bibitem[Li {\em et~al.}(2020)Li, Tsang, \& Wong]{LiTsWo:20}
+{\sc Li, Z., Tsang, K.~H. \& Wong, H.~Y.} (2020)
+\newblock Lasso-based simulation for high-dimensional multi-period portfolio
+  optimization.
+\newblock {\em IMA J. Manag. Math.}, {\bf 31}, 257--280.
+
+\bibitem[Lin {\em et~al.}(2019)Lin, Liang, \& Hsieh]{LiLiHs:draft}
+{\sc Lin, L.-G., Liang, Y.-W. \& Hsieh, W.-Y.} (2019)
+\newblock Convex quadratic equations and functions.
+\newblock arxiv.org/abs/1906.00177.
+
+\bibitem[Lin {\em et~al.}(2020)Lin, Liang, \& Hsieh]{LiLiHs:20}
+{\sc Lin, L.-G., Liang, Y.-W. \& Hsieh, W.-Y.} (2020)
+\newblock Convex quadratic equation.
+\newblock {\em J. Optim. Theory Appl.}, {\bf 186}, 1006--1028.
+
+\bibitem[Luenberger(1969)Luenberger]{Lue:69}
+{\sc Luenberger, D.~G.} (1969)
+\newblock {\em Optimization by Vector Space Methods\/}.
+\newblock New York, USA: Wiley.
+
+\bibitem[Luenberger \& Ye(2016)Luenberger \& Ye]{Lu(Ye):03(16)}
+{\sc Luenberger, D.~G. \& Ye, Y.} (2016)
+\newblock {\em Linear and Nonlinear Programming\/}.
+\newblock Switzerland: Springer.
+\newblock 2nd and 4th/latest editions.
+
+\bibitem[Mangasarian(1988)Mangasarian]{Man:88}
+{\sc Mangasarian, O.~L.} (1988)
+\newblock A simple characterization of solution sets of convex programs.
+\newblock {\em Oper. Res. Lett.}, {\bf 7}, 21--26.
+
+\bibitem[{MATLAB}$\textsuperscript{\textregistered}$
+  Documentation(2022){MATLAB}$\textsuperscript{\textregistered}$
+  Documentation]{MATLAB}
+{\sc {MATLAB}$\textsuperscript{\textregistered}$ Documentation}
+\newblock  (2022).
+\newblock (``quadprog'' function, accessed in Mar. 2022). The Mathworks, Inc.
+
+\bibitem[Mittal \& Hanasusanto(2021)Mittal \& Hanasusanto]{MiHa:acc}
+{\sc Mittal, A. \& Hanasusanto, G.~A.} (2021)
+\newblock Finding minimum volume circumscribing ellipsoids using generalized
+  copositive programming.
+\newblock {\em Oper. Res.}
+
+\bibitem[Nocedal \& Wright(2006)Nocedal \& Wright]{NoWr:06}
+{\sc Nocedal, J. \& Wright, S.~J.} (2006).
+\newblock {\em Numerical Optimization\/} (T.~V. Mikosch, S.~I. Resnick \& S.~M.
+  Robinson eds). Springer Ser. Oper. Res. Financ. Eng.
+\newblock USA: Springer.
+
+\bibitem[Patrinos \& Sarimveis(2010)Patrinos \& Sarimveis]{PaSa:10}
+{\sc Patrinos, P. \& Sarimveis, H.} (2010)
+\newblock A new algorithm for solving convex parametric quadratic programs
+  based on graphical derivatives of solution mappings.
+\newblock {\em Automatica\/}, {\bf 46}, 1405--1418.
+
+\bibitem[Quillen \& Subbarao(2018)Quillen \& Subbarao]{QuSu:18}
+{\sc Quillen, P. \& Subbarao, K.} (2018)
+\newblock Minimum control effort--based path planning and nonlinear guidance
+  for autonomous mobile robots.
+\newblock {\em Int. J. Adv. Robot. Syst.}, {\bf 15}, 1--23.
+
+\bibitem[Rakovi{\'c} \& Levine(2019)Rakovi{\'c} \& Levine]{RaLe:19}
+{\sc Rakovi{\'c}, S.~V. \& Levine, W.~S.} (eds) (2019)
+\newblock {\em Handbook of Model Predictive Control\/}.
+\newblock Cham, Switzerland: Birkh{\"{a}}user.
+
+\bibitem[Rawlings {\em et~al.}(2008)Rawlings, Bonn{\'e}, J{\o}rgensen, Venkat,
+  \& J{\o}rgensen]{RaBoJoVeJo:08}
+{\sc Rawlings, J.~B., Bonn{\'e}, D., J{\o}rgensen, J.~B., Venkat, A.~N. \&
+  J{\o}rgensen, S.~B.} (2008)
+\newblock Unreachable setpoints in model predictive control.
+\newblock {\em IEEE Trans. Automat. Control\/}, {\bf 53}, 2209--2215.
+
+\bibitem[Tsai \& Malak(2021)Tsai \& Malak]{TsMa:21}
+{\sc Tsai, Y.-K. \& Malak, R.} (2021)
+\newblock A methodology for designing a nonlinear feedback controller via
+  parametric optimization: {S}tate-parameterized nonlinear programming control.
+\newblock {\em Proc. ASME International Design Engineering Technical Conf. and
+  Computers and Information in Engineering Conf.}, {\bf 3A: 47th Design
+  Automation Conf.}
+\newblock V03AT03A011.
+
+\bibitem[Urig\"{u}en {\em et~al.}(2013)Urig\"{u}en, Blu, \&
+  Dragotti]{UrBlDr:13}
+{\sc Urig\"{u}en, J.~A., Blu, T. \& Dragotti, P.~L.} (2013)
+\newblock {FRI} sampling with arbitrary kernels.
+\newblock {\em IEEE Trans. Signal Process.}, {\bf 61}, 5310--5323.
+
+\end{thebibliography}

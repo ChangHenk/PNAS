@@ -1,0 +1,145 @@
+\begin{thebibliography}{10}
+
+\bibitem{LiLiHs:20}
+LG Lin, YW Liang, WY Hsieh, Convex quadratic equation.
+\newblock {\em\protect\JournalTitle{J. Optim. Theory Appl.}} \textbf{186},
+  1006--1028 (2020).
+
+\bibitem{Cim:10}
+T {\c{C}}imen, Systematic and effective design of nonlinear feedback
+  controllers via the state-dependent {R}iccati equation ({SDRE}) method.
+\newblock {\em\protect\JournalTitle{Annu. Rev. Control}} \textbf{34}, 32--51
+  (2010).
+
+\bibitem{Lu(Ye):03(16)}
+DG Luenberger, Y Ye, {\em Linear and Nonlinear Programming}.
+\newblock (Switzerland: Springer), (2016) 2nd and 4th/latest editions.
+
+\bibitem{BoVa:04}
+S Boyd, L Vandenberghe, {\em Convex Optimization}.
+\newblock (Cambridge, UK: Cambridge Univ. Press), (2004) 23rd/latest printing
+  with corrections, 2018, and its solution manual.
+
+\bibitem{CiFa:12}
+DF Ciocan, VF Farias, Model predictive control for dynamic resource allocation.
+\newblock {\em\protect\JournalTitle{Math. Oper. Res.}} \textbf{37}, 501--525
+  (2012).
+
+\bibitem{KaWaLiShPe:18}
+S Kang, J Wang, G Li, J Shan, IR Petersen, Optimal cooperative guidance law for
+  salvo attack: {A}n {MPC}-based consensus perspective.
+\newblock {\em\protect\JournalTitle{IEEE Trans. Aerosp. Electron. Syst.}}
+  \textbf{54}, 2397--2410 (2018).
+
+\bibitem{QuSu:18}
+P Quillen, K Subbarao, Minimum control effort--based path planning and
+  nonlinear guidance for autonomous mobile robots.
+\newblock {\em\protect\JournalTitle{Int. J. Adv. Robot. Syst.}} \textbf{15},
+  1--23 (2018).
+
+\bibitem{BeMoDuPi:02}
+A Bemporad, M Morari, V Dua, EN Pistikopoulos, The explicit linear quadratic
+  regulator for constrained systems.
+\newblock {\em\protect\JournalTitle{Automatica}} \textbf{38}, 3--20 (2002).
+
+\bibitem{LiTsWo:20}
+Z Li, KH Tsang, HY Wong, Lasso-based simulation for high-dimensional
+  multi-period portfolio optimization.
+\newblock {\em\protect\JournalTitle{IMA J. Manag. Math.}} \textbf{31}, 257--280
+  (2020).
+
+\bibitem{PaSa:10}
+P Patrinos, H Sarimveis, A new algorithm for solving convex parametric
+  quadratic programs based on graphical derivatives of solution mappings.
+\newblock {\em\protect\JournalTitle{Automatica}} \textbf{46}, 1405--1418
+  (2010).
+
+\bibitem{RaBoJoVeJo:08}
+JB Rawlings, D Bonn{\'e}, JB J{\o}rgensen, AN Venkat, SB J{\o}rgensen,
+  Unreachable setpoints in model predictive control.
+\newblock {\em\protect\JournalTitle{IEEE Trans. Automat. Control}} \textbf{53},
+  2209--2215 (2008).
+
+\bibitem{Man:88}
+OL Mangasarian, A simple characterization of solution sets of convex programs.
+\newblock {\em\protect\JournalTitle{Oper. Res. Lett.}} \textbf{7}, 21--26
+  (1988).
+
+\bibitem{NoWr:06}
+J Nocedal, SJ Wright, in {\em Numerical Optimization}, Springer Ser. Oper. Res.
+  Financ. Eng., eds.{} TV Mikosch, SI Resnick, SM Robinson.
+\newblock (USA: Springer), {2nd/latest} edition, (2006).
+
+\bibitem{JoFoTo:05}
+TA Johansen, TI Fossen, P T{\o}ndel, Efficient optimal constrained control
+  allocation via multiparametric programming.
+\newblock {\em\protect\JournalTitle{J. Guid. Control Dyn.}} \textbf{28},
+  506--515 (2005).
+
+\bibitem{Lue:69}
+DG Luenberger, {\em Optimization by Vector Space Methods}.
+\newblock (New York, USA: Wiley), (1969).
+
+\bibitem{DuJoWaWi:15}
+JC Duchi, MI Jordan, MJ Wainwright, A Wibisono, Optimal rates for zero-order
+  convex optimization: {T}he power of two function evaluations.
+\newblock {\em\protect\JournalTitle{IEEE Trans. Inf. Theory}} \textbf{61},
+  2788--2806 (2015).
+
+\bibitem{JoFo:13}
+TA Johansen, TI Fossen, Control allocation--{A} survey.
+\newblock {\em\protect\JournalTitle{Automatica}} \textbf{49}, 1087--1103
+  (2013).
+
+\bibitem{RaLe:19}
+SV Rakovi{\'c}, WS Levine, eds., {\em Handbook of Model Predictive Control}.
+\newblock (Cham, Switzerland: Birkh{\"{a}}user), (2019).
+
+\bibitem{UrBlDr:13}
+JA Urig\"{u}en, T Blu, PL Dragotti, {FRI} sampling with arbitrary kernels.
+\newblock {\em\protect\JournalTitle{IEEE Trans. Signal Process.}} \textbf{61},
+  5310--5323 (2013).
+
+\bibitem{LiLiHs:draft}
+LG Lin, YW Liang, WY Hsieh, Convex quadratic equations and functions.
+\newblock {\em\protect\JournalTitle{arXiv}} (2019) arxiv.org/abs/1906.00177.
+
+\bibitem{GoVa:13}
+GH Golub, CF Van~Loan, {\em Matrix Computations}.
+\newblock (Baltimore, MD, USA: Johns Hopkins Univ. Press), {4th/latest}
+  edition, (2013).
+
+\bibitem{Hey:acc}
+M Heydari, Optimal inspection policy for a second-hand product with a
+  two-dimensional warranty.
+\newblock {\em\protect\JournalTitle{IMA J. Manag. Math.}} (2021) dpab030.
+
+\bibitem{KoYa:91}
+H Konno, H Yamazaki, Mean-absolute deviation portfolio optimization model and
+  its applications to {T}okyo stock market.
+\newblock {\em\protect\JournalTitle{Management Sci.}} \textbf{37}, 519--531
+  (1991).
+
+\bibitem{MATLAB}
+{MATLAB}$\textsuperscript{\textregistered}$ Documentation, (2022) (``quadprog''
+  function, accessed in Mar. 2022). The Mathworks, Inc.
+
+\bibitem{KuYi:03}
+H Kushner, GG Yin, {\em Stochastic Approximation and Recursive Algorithms and
+  Applications}.
+\newblock (USA: Springer-Verlag), 2nd edition, (2003).
+
+\bibitem{MiHa:acc}
+A Mittal, GA Hanasusanto, Finding minimum volume circumscribing ellipsoids
+  using generalized copositive programming.
+\newblock {\em\protect\JournalTitle{Oper. Res.}} (2021).
+
+\bibitem{TsMa:21}
+YK Tsai, R Malak, A methodology for designing a nonlinear feedback controller
+  via parametric optimization: {S}tate-parameterized nonlinear programming
+  control.
+\newblock {\em\protect\JournalTitle{Proc. ASME International Design Engineering
+  Technical Conf. and Computers and Information in Engineering Conf.}}
+  \textbf{3A: 47th Design Automation Conf.} (2021) V03AT03A011.
+
+\end{thebibliography}
